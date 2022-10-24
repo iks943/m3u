@@ -1,69 +1,69 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="虎牙-韩涵" tvg-name="虎牙-韩涵" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/68/495b16b192deec93f5dbe6a6910367_180_135.jpg" group-title="虎牙",虎牙-韩涵
-https://live.52sf.ga/huya/774810
+https://epg.112114.xyz/huya/774810
 #EXTINF:-1 tvg-id="虎牙-北慕" tvg-name="虎牙-北慕" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/69/990ecc71104fdb2521fb7b3e994554_180_135.jpg" group-title="虎牙",虎牙-北慕
-https://live.52sf.ga/huya/31520
+https://epg.112114.xyz/huya/31520
 #EXTINF:-1 tvg-id="虎牙-可杰" tvg-name="虎牙-可杰" tvg-logo="https://huyaimg.msstatic.com/avatar/1044/1b/1b44c5151e57ee8a4bfd25355beba3_180_135.jpg" group-title="虎牙",虎牙-可杰
-https://live.52sf.ga/huya/509265
+https://epg.112114.xyz/huya/509265
 #EXTINF:-1 tvg-id="虎牙-呆呆" tvg-name="虎牙-呆呆" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/ce/9329a942326aa866cfac4b90780985_180_135.jpg" group-title="虎牙",虎牙-呆呆
-https://live.52sf.ga/huya/616702
+https://epg.112114.xyz/huya/616702
 #EXTINF:-1 tvg-id="虎牙-德华" tvg-name="虎牙-德华" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/77/a4286776aa02881faa959bbb2a94d5_180_135.jpg" group-title="虎牙",虎牙-德华
-https://live.52sf.ga/huya/243547
+https://epg.112114.xyz/huya/243547
 #EXTINF:-1 tvg-id="虎牙-空伐" tvg-name="虎牙-空伐" tvg-logo="http://huyaimg.msstatic.com/avatar/1061/2a/6dedd1e4f382c255f6c87be99f126e_180_135.jpg" group-title="虎牙",虎牙-空伐
-https://live.52sf.ga/huya/960427
+https://epg.112114.xyz/huya/960427
 #EXTINF:-1 tvg-id="虎牙-刺痛" tvg-name="虎牙-刺痛" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/58/cdd99602b4c9738d99907f090d2031_180_135.jpg" group-title="虎牙",虎牙-刺痛
-https://live.52sf.ga/huya/742611
+https://epg.112114.xyz/huya/742611
 #EXTINF:-1 tvg-id="虎牙-孤影" tvg-name="虎牙-孤影" tvg-logo="http://huyaimg.msstatic.com/avatar/1063/27/69fb3230202bffd72a9052f340f1a9_180_135.jpg" group-title="虎牙",虎牙-孤影
-https://live.52sf.ga/huya/321
+https://epg.112114.xyz/huya/321
 #EXTINF:-1 tvg-id="虎牙-陆左" tvg-name="虎牙-陆左" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/21/149ffb6051ee88bda46735b026d001_180_135.jpg" group-title="虎牙",虎牙-陆左
-https://live.52sf.ga/huya/26566329
+https://epg.112114.xyz/huya/26566329
 #EXTINF:-1 tvg-id="虎牙-矛神" tvg-name="虎牙-矛神" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg" group-title="虎牙",虎牙-矛神
-https://live.52sf.ga/huya/503708
+https://epg.112114.xyz/huya/503708
 #EXTINF:-1 tvg-id="虎牙-口袋" tvg-name="虎牙-口袋" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/2b/ecb5b4d3aa80d5517656b3a5a83ce8_180_135.jpg" group-title="虎牙",虎牙-口袋
-https://live.52sf.ga/huya/51106
+https://epg.112114.xyz/huya/51106
 #EXTINF:-1 tvg-id="虎牙-灵儿" tvg-name="虎牙-灵儿" tvg-logo="https://huyaimg.msstatic.com/avatar/1022/b2/e8912a2db2732da0e3cab0507054cf_180_135.jpg" group-title="虎牙",虎牙-灵儿
-https://live.52sf.ga/huya/238197
+https://epg.112114.xyz/huya/238197
 #EXTINF:-1 tvg-id="虎牙-故辞" tvg-name="虎牙-故辞" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/bb/8847f8317d7d5368643ec17ebcce69_180_135.jpg" group-title="虎牙",虎牙-故辞
-https://live.52sf.ga/huya/358559
+https://epg.112114.xyz/huya/358559
 #EXTINF:-1 tvg-id="虎牙-拥酱" tvg-name="虎牙-拥酱" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/06/b3d91cedd109e8d341e905c01c3d64_180_135.jpg" group-title="虎牙",虎牙-拥酱
-https://live.52sf.ga/huya/712707
+https://epg.112114.xyz/huya/712707
 #EXTINF:-1 tvg-id="虎牙-蜜小涛" tvg-name="虎牙-蜜小涛" tvg-logo="https://huyaimg.msstatic.com/avatar/1066/f5/4fd222cd3e334a7381bd86c2dcc8e0_180_135.jpg" group-title="虎牙",虎牙-蜜小涛
-https://live.52sf.ga/huya/861098
+https://epg.112114.xyz/huya/861098
 #EXTINF:-1 tvg-id="虎牙-小锦儿" tvg-name="虎牙-小锦儿" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/5a/80475bf4f9cd261eb51d3328134197_180_135.jpg" group-title="虎牙",虎牙-小锦儿
-https://live.52sf.ga/huya/813749
+https://epg.112114.xyz/huya/813749
 #EXTINF:-1 tvg-id="虎牙-守着她" tvg-name="虎牙-守着她" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/f3/f2bc671439b420cbf6e20c4fd6fbe3_180_135.jpg" group-title="虎牙",虎牙-守着她
-https://live.52sf.ga/huya/128973
+https://epg.112114.xyz/huya/128973
 #EXTINF:-1 tvg-id="虎牙-小浪浪" tvg-name="虎牙-小浪浪" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/d3/157fdcb8b15e30521d4d813653f0d0_180_135.jpg" group-title="虎牙",虎牙-小浪浪
-https://live.52sf.ga/huya/976974
+https://epg.112114.xyz/huya/976974
 #EXTINF:-1 tvg-id="斗鱼-易瞳" tvg-name="斗鱼-易瞳" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/ba20c7ce2b82407589f6fbe2855a960e_big.jpg" group-title="斗鱼",斗鱼-易瞳
-https://live.52sf.ga/douyu/88807
+https://epg.112114.xyz/douyu/88807
 #EXTINF:-1 tvg-id="斗鱼-沐沐" tvg-name="斗鱼-沐沐" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202205/950f33ff61d34bf195ffb434b534b365_big.jpg" group-title="斗鱼",斗鱼-沐沐
-https://live.52sf.ga/douyu/8745735
+https://epg.112114.xyz/douyu/8745735
 #EXTINF:-1 tvg-id="斗鱼-杰瑞" tvg-name="斗鱼-杰瑞" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/ef66a469091c4b8fa1c5fc366f688e90_big.jpg" group-title="斗鱼",斗鱼-杰瑞
-https://live.52sf.ga/douyu/9771
+https://epg.112114.xyz/douyu/9771
 #EXTINF:-1 tvg-id="斗鱼-玖玖" tvg-name="斗鱼-玖玖" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/53baafae10d2496cbe18b86d4a5fd812_big.jpg" group-title="斗鱼",斗鱼-玖玖
-https://live.52sf.ga/douyu/9659525
+https://epg.112114.xyz/douyu/9659525
 #EXTINF:-1 tvg-id="斗鱼-昧昧" tvg-name="斗鱼-昧昧" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/a8fa9d019a7d4227baa093f96db3f3d9_big.jpg" group-title="斗鱼",斗鱼-昧昧
-https://live.52sf.ga/douyu/9375414
+https://epg.112114.xyz/douyu/9375414
 #EXTINF:-1 tvg-id="斗鱼-南瓜" tvg-name="斗鱼-南瓜" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/fd206a4f07db491b9133edfb04bb1389_big.jpg" group-title="斗鱼",斗鱼-南瓜
-https://live.52sf.ga/douyu/88520
+https://epg.112114.xyz/douyu/88520
 #EXTINF:-1 tvg-id="斗鱼-枷锁" tvg-name="斗鱼-枷锁" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/846fd2bbf3ac4e87ac13c30d0d0a9a20_big.jpg" group-title="斗鱼",斗鱼-枷锁
-https://live.52sf.ga/douyu/169
+https://epg.112114.xyz/douyu/169
 #EXTINF:-1 tvg-id="斗鱼-小楠" tvg-name="斗鱼-小楠" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202209/369568c0a1c9477792709ab865fc8748_big.jpg" group-title="斗鱼",斗鱼-小楠
-https://live.52sf.ga/douyu/10018165
+https://epg.112114.xyz/douyu/10018165
 #EXTINF:-1 tvg-id="斗鱼-萧玦" tvg-name="斗鱼-萧玦" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/1383c003d1424d829c18b1deeddacc41_big.jpg" group-title="斗鱼",斗鱼-萧玦
-https://live.52sf.ga/douyu/88805
+https://epg.112114.xyz/douyu/88805
 #EXTINF:-1 tvg-id="斗鱼-钟意" tvg-name="斗鱼-钟意" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/59d3210a6cee466287c1a64400d03b1c_big.jpg" group-title="斗鱼",斗鱼-钟意
-https://live.52sf.ga/douyu/18880
+https://epg.112114.xyz/douyu/18880
 #EXTINF:-1 tvg-id="斗鱼-慢慢" tvg-name="斗鱼-慢慢" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/2a7e6e16508742d9b3e17eeb6916c959_big.jpg" group-title="斗鱼",斗鱼-慢慢
-https://live.52sf.ga/douyu/4926715
+https://epg.112114.xyz/douyu/4926715
 #EXTINF:-1 tvg-id="斗鱼-夏童" tvg-name="斗鱼-夏童" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/b388a4d674fd49e197bd633b9d72e75b_big.jpg" group-title="斗鱼",斗鱼-夏童
-https://live.52sf.ga/douyu/10012556
+https://epg.112114.xyz/douyu/10012556
 #EXTINF:-1 tvg-id="斗鱼-小七" tvg-name="斗鱼-小七" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202205/8b633844909e4e9ca51e820ac05bf061_big.jpg" group-title="斗鱼",斗鱼-小七
-https://live.52sf.ga/douyu/10844415
+https://epg.112114.xyz/douyu/10844415
 #EXTINF:-1 tvg-id="斗鱼-亚瑟王" tvg-name="斗鱼-亚瑟王" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/1f8bd9f8051f45f4ad861075a5e567ac_big.jpg" group-title="斗鱼",斗鱼-亚瑟王
-https://live.52sf.ga/douyu/5669195
+https://epg.112114.xyz/douyu/5669195
 #EXTINF:-1 tvg-id="斗鱼-李知恩" tvg-name="斗鱼-李知恩" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/105772659ea57c0f3368f5f91784b64c_big.jpg" group-title="斗鱼",斗鱼-李知恩
-https://live.52sf.ga/douyu/4921614
+https://epg.112114.xyz/douyu/4921614
 #EXTINF:-1 tvg-id="斗鱼-小小娥" tvg-name="斗鱼-小小娥" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/d677e992df874e22ac70afd4277670bc_big.jpg" group-title="斗鱼",斗鱼-小小娥
-https://live.52sf.ga/douyu/9803728
+https://epg.112114.xyz/douyu/9803728
